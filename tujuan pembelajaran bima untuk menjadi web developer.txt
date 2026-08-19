@@ -1,0 +1,6 @@
+hal hal yang bima pelajari untuk menjadi web developer
+
+Front-end
+1. HTML
+2. CSS
+3. JavaScript
