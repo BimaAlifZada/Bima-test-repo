@@ -9,3 +9,8 @@ Back-end
 1. Python
 2. PHP
 3. Java
+
+database
+1.laravel
+2.laragon
+3.mysql
